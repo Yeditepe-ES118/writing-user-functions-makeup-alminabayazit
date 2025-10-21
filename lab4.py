@@ -18,4 +18,4 @@ def throw_rock(m, v0, theta):
           "Kinetic energy at the maximum height is %8.2e J" % (m, v0, theta*180/np.pi, tf, R, vh, Kh)) 
     return tf, R, vh, Kh
 
-my result = throw_rock(1.5, 0.3, 35.20)
+    myresult = throw_rock(1.5, 0.3, 35.20)
